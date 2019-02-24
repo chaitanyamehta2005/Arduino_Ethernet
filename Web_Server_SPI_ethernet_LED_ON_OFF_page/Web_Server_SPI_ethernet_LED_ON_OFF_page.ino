@@ -1,3 +1,5 @@
+//The following code is inteneded to turn on or off 5 LEDs connected to the Arduino GPIO port 1 to 5.
+
 #include <EtherCard.h>
 #define STATIC 1 // set to 1 to disable DHCP (adjust myip/gwip values below)
 
